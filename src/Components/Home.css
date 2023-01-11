@@ -1,0 +1,60 @@
+body{
+    
+    /* opacity: 50%; */
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+     /* opacity: 75% ; */
+    /* background-image: linear-gradient(white,blue,purple); */
+
+}
+
+/*  this makes everything in columns */
+
+.Category{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    min-height: 200px;
+    border: 5px solid white;
+    padding: 15px;
+  align-items: baseline;
+  /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbrja_gm_QznMmHAg_eKvb-xRgII92RLxcg&usqp=CAU') ; */
+  background-repeat: no-repeat;
+  background-size: cover;
+   position: relative;
+   color: white;
+  border-radius: 25px;
+  
+}
+
+
+.Categories{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+   
+   
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    padding-top: 100%;
+    font-size: 24px;
+}
+
+h2 {
+    color: white;
+    font-size: 24px;
+}
+
+p {
+    color: white;
+    font-size: 24px;
+}
+/* this wraps everything in the category then makes everything linear instead of vertical. Space-between creates a space between the row
+/* the wrap, wraps down to a new line  */

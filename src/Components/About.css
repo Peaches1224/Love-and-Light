@@ -1,0 +1,22 @@
+/* Category{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    min-height: 200px;
+    border: 5px solid white;
+    padding-left: 50%;
+  align-items: baseline;
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXbrja_gm_QznMmHAg_eKvb-xRgII92RLxc/* bg&usqp=CAU') ; */
+  /* background-repeat: no-repeat;
+  background-size: cover;
+   position: relative; */
+/* } */
+
+h1 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 24px;
+}
+

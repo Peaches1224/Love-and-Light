@@ -1,0 +1,79 @@
+#root {
+  /* background:linear-gradient(white,white,orange,yellow,purple,white,white);
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center; 
+  font-size: calc(10px + 2vmin);
+  color:purple;
+  display: center; */
+   min-height: 100vw;
+  background-attachment: fixed;
+  background-size: cover;
+  background-image: url(https://www.freeiconspng.com/uploads/sun-rays-wallpaper-3.jpg)
+} 
+
+img {
+  border-radius: 15px;
+   border: 1px solid #ddd;
+  padding: 5px;
+  width: 350px;
+}
+
+h1 {
+ font-size: 100px;
+}
+p {
+  padding-top:10%;
+  font-size: 20px;
+}
+
+
+/* backgrounds I like:
+https://image.shutterstock.com/image-photo/star-trek-space-travel-speed-260nw-1938115099.jpg
+https://images.theconversation.com/files/141222/original/image-20161011-12034-19ryj7p.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=900.0&fit=crop
+https://s15753.pcdn.co/wp-content/uploads/2021/02/Astrology-Basics-Your-Sun-Moon-and-Rising-Signs-FB-SHARE.jpg.optimal.jpg
+https://live-production.wcms.abc-cdn.net.au/6c989c901d52d218e4f8f5cd6cd27e9f?impolicy=wcms_crop_resize&cropH=1158&cropW=1737&xPos=131&yPos=0&width=862&height=575
+https://live-production.wcms.abc-cdn.net.au/bbb9b76311f3931fc7b29a9ce2ca0e53?impolicy=wcms_crop_resize&cropH=518&cropW=921&xPos=0&yPos=0&width=862&height=485
+ https://hips.hearstapps.com/hmg-prod/images/shondaland-moonphasesdesktop-1625004462.jpg
+*/
+
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
